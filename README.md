@@ -9,7 +9,8 @@ His parents have invested into one stock (ticker symbol: DQ) in an area that the
 
 
 ### Execution Script Times (Original vs Refactored)
-![](Resources/VBA_Challenge_2017.png.PNG) ![] (Resources/VBA_Challenge_2017_Original.png)
+![](Resources/VBA_Challenge_2017.png) 
+![](Resources/VBA_Challenge_2017_Original.png)
 
 
 ## Summary: 
