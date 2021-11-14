@@ -24,6 +24,14 @@ His parents have invested into one stock (ticker symbol: **DQ**) in an area that
 **The 2018 Refactored script ran 82.11% faster.**
 
 ## Summary: 
-In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
+**What are the advantages or disadvantages of refactoring code?**
+_1. Advantages:_
+- Allows for a larger volume of data to be analyzed
+- Allows for this analysis to occur more efficiently
+_2. Disadvantage:_
+- The time it takes to recreate and revise
+- Maintaining the integrity of the essential components of the original script can be somewhat challenging
+
+**How do these pros and cons apply to refactoring the original VBA script?**
+Although the cons (disadvantages) listed above can be time consuming, and requires a very thorough comparison review, the pros (advantages) far outweigh any negative aspect. In this particular scenario, refactoring the code will allow Steve to analyze a much larger volume of stocks in any given sector quickly. Thereby allowing him to give more timely reccomendations, based on a larger spectrum of data. One could argue that only comparing 2017 and 2018 is not enough data to confidently recommend divesting from **DQ** in this sector given **DQ**'s rapid year over year growth. Is this how this sector trends? Is there an outlier event that occurred in 2018 that would become more apparent if a 10 year analysis were conducted?
+
