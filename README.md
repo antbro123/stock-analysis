@@ -12,6 +12,8 @@ His parents have invested into one stock (ticker symbol: DQ) in an area that the
 ![](Resources/VBA_Challenge_2017.png)
 ![](Resources/Original_2017.PNG)
 
+![](Resources/VBA_Challenge_2018.png)
+![](Resources/Original_2018.PNG)
 
 ## Summary: 
 In a summary statement, address the following questions.
