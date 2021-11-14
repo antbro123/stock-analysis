@@ -31,7 +31,7 @@ His parents have invested into one stock (ticker symbol: **DQ**) in an area that
 _1. Advantages:_
 - Allows for a larger volume of data to be analyzed
 - Allows for this analysis to occur more efficiently
-- 
+
 _2. Disadvantage:_
 - The time it takes to recreate and revise
 - Maintaining the integrity of the essential components of the original script can be somewhat challenging
