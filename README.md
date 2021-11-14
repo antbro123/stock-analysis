@@ -15,13 +15,13 @@ His parents have invested into one stock (ticker symbol: **DQ**) in an area that
 **Summary:** If investments are to continue in this sector, shifting investments to the **RUN** stock is recommended. 
 
 ### Execution Script Times (Original vs Refactored)
-![](Resources/VBA_Challenge_2017.png)
-![](Resources/Original_2017.PNG)
+![](Resources/VBA_Challenge_2017.png)   _Refactored_
+![](Resources/Original_2017.PNG)        _Original_
 
 **The 2017 Refactored script ran 81.4% faster.**
 
-![](Resources/VBA_Challenge_2018.png)
-![](Resources/Original_2018.PNG)
+![](Resources/VBA_Challenge_2018.png)   _Refactored_
+![](Resources/Original_2018.PNG)        _Original_
 
 **The 2018 Refactored script ran 82.11% faster.**
 
