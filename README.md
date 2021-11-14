@@ -11,11 +11,11 @@ His parents have invested into one stock (ticker symbol: DQ) in an area that the
 ### Execution Script Times (Original vs Refactored)
 ![](Resources/VBA_Challenge_2017.png)
 ![](Resources/Original_2017.PNG)
-The Refactored script ran 81.4% faster.
+**The 2017 Refactored script ran 81.4% faster.**
 
 ![](Resources/VBA_Challenge_2018.png)
 ![](Resources/Original_2018.PNG)
-The Refactored script ran 82.11% faster.
+**The 2018 Refactored script ran 82.11% faster.**
 
 ## Summary: 
 In a summary statement, address the following questions.
