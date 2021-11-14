@@ -12,7 +12,7 @@ His parents have invested into one stock (ticker symbol: **DQ**) in an area that
 **2018:** Only one stock increased in both Daily Volume and Returns: _**RUN**_  
 **2018:** Out of the stocks compared **DQ** reflected the largest Daily Volume Increase year over year at 201%, while negatively accompanied by the lowest rate of return for this year. 
 
-**Summary:** If investments are to continue in this sector, shifting investments to the RUN stock is recommended. 
+**Summary:** If investments are to continue in this sector, shifting investments to the **RUN** stock is recommended. 
 
 ### Execution Script Times (Original vs Refactored)
 ![](Resources/VBA_Challenge_2017.png)
