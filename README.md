@@ -2,7 +2,7 @@
 
 ## Overview of Project 
 The goal of this project is to assist Steve, a recent Finance graduate, with analyzing the his parents investment.
-His parents have invested into one stock (ticker symbol: **DQ**) in an area that they are passionate about. Steve wants to explore this investment and opportunities to diversify.
+His parents have invested into one stock (ticker symbol: **DQ**) in an area that they are passionate about. Steve wants to explore this investment for current and future profitability and also explore opportunities to diversify.
 
 ## Results 
 ### 2017 vs 2018 Stock Performance
