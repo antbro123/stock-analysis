@@ -6,6 +6,9 @@ His parents have invested into one stock (ticker symbol: **DQ**) in an area that
 
 ## Results 
 ### 2017 vs 2018 Stock Performance
+
+![](Resources/2017_vs_2018_StockPerformance.PNG)
+
 **2017:** Returns in this space were positive at an average of 60% of those stocks compared. Only one stock reflected negative returns: TERP -7.2%
 **2017:** The stock choice of Steve's parents **DQ** reflected the highest return rate for this year with the lowest volume of those compared.**
 
