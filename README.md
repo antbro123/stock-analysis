@@ -2,12 +2,12 @@
 
 ## Overview of Project 
 The goal of this project is to assist Steve, a recent Finance graduate, with analyzing the his parents investment.
-His parents have invested into one stock (ticker symbol: DQ) in an area that they are passionate about. Steve wants to explore this investment and opportunities to diversify.
+His parents have invested into one stock (ticker symbol: **DQ**) in an area that they are passionate about. Steve wants to explore this investment and opportunities to diversify.
 
 ## Results 
 ### 2017 vs 2018 Stock Performance
 **2017:** Returns in this space were positive at an average of 60% of those stocks compared. Only one stock reflected negative returns: TERP -7.2%
-**2017:** The stock choice of Steve's parents **(DQ)** reflected the highest return rate for this year with the lowest volume of those compared.**
+**2017:** The stock choice of Steve's parents **DQ** reflected the highest return rate for this year with the lowest volume of those compared.**
 
 **2018:** Only one stock increased in both Daily Volume and Returns: _**RUN**_  
 **2018:** Out of the stocks compared **DQ** reflected the largest Daily Volume Increase year over year at 201%, while negatively accompanied by the lowest rate of return for this year. 
